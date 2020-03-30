@@ -1,0 +1,27 @@
+{
+  "name": "nbt-editor",
+  "version": "0.0.1",
+  "description": "A simple NBT encoder/decoder, uses JSON as data representation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-Handouk/NBT-Editor.git"
+  },
+  "keywords": [
+    "NBT",
+    "Encoder",
+    "Decoder"
+  ],
+  "author": "Omar-Handouk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Omar-Handouk/NBT-Editor/issues"
+  },
+  "homepage": "https://github.com/Omar-Handouk/NBT-Editor#readme",
+  "devDependencies": {
+    "@types/node": "^13.9.5"
+  }
+}
